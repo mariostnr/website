@@ -1,7 +1,7 @@
 # Site settings
 title: Mario Steiner # site title
 description: >- # site description
-  He's writing about innovation, product and growth, meet him <a href="https://twitter.com/mariostnr" target="_blank" rel="noopener">@Twitter</a>.
+  I'am writing about innovation, product and growth, meet me <a href="https://twitter.com/mariostnr" target="_blank" rel="noopener">@mariostnr</a>.
 lang: en-US # default lang
 timezone: Europe/Austria # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,8 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Mario Steiner # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    A blog about innovation, product and growth, meet hme <a href="https://twitter.com/mariostnr" target="_blank" rel="noopener">@mariostnr</a>
   username: username # author username
   github: github_username
   twitter: twitter_username
