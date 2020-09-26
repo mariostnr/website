@@ -1,3 +1,12 @@
+---
+title: Wachstum und Erfolg von kollaborativen Software-as-a-Service Produkten
+date: 2020-09-26 11:58:47 +07:00
+modified: 2020-06-26 16:49:47 +07:00
+tags: [saas, product, growth]
+description: Kern meiner Arbeit war es herauszufinden, welche Wirkungsfaktoren sich positiv auf das Wachstum und schlussendlich den finanziellen Erfolg von kollaborativen Software-as-a-Service (SaaS) Produkten auswirken.
+---
+
+
 # Wachstum und Erfolg von kollaborativen Software-as-a-Service Produkten
 
 Im Rahmen meines Masterstudiums an der FH Technikum Wien widmete ich meine abschließende Masterarbeit dem Thema:
@@ -41,4 +50,4 @@ Welche Kapitel und Themen möchte ich hier in den nächsten Wochen und Monaten v
 - Einblicke in meine Forschungsergebnisse
 - Persönliche Erkenntnisse und Ausblick
 
-PS: um keinen Artikel zu verpassen kannst du mir auf Twitter oder LinkedIn folgen oder dich zu meinem persönlichen Newsletter anmelden.
+PS: um keinen Artikel zu verpassen kannst du mir auf [Twitter](https://twitter.com/mariostnr) oder [LinkedIn](https://www.linkedin.com/in/mario-steiner/) folgen.
