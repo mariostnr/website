@@ -131,10 +131,11 @@ ul {
   list-style: none;
   li {
     display: list-item;
+    list-style-type:disc;
     text-align: -webkit-match-parent;
   }
   li::before {
-    content: "\03BB";
+    //content: "\03BB";
     display: inline-block;
     width: 1em;
     position: relative;
