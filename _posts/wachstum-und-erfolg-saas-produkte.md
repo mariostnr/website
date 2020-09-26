@@ -50,4 +50,4 @@ Welche Kapitel und Themen möchte ich hier in den nächsten Wochen und Monaten v
 - Einblicke in meine Forschungsergebnisse
 - Persönliche Erkenntnisse und Ausblick
 
-PS: um keinen Artikel zu verpassen kannst du mir auf [Twitter](https://twitter.com/mariostnr) oder [LinkedIn](https://www.linkedin.com/in/mario-steiner/) folgen.
+💡 PS: um in Zukunft keinen Artikel zu verpassen kannst du mir auf [Twitter](https://twitter.com/mariostnr) oder [LinkedIn](https://www.linkedin.com/in/mario-steiner/) folgen.
