@@ -1,8 +1,8 @@
 ---
-title: Impressum
+title: Privacy and Terms
 permalink: /privacy/
 layout: page
-excerpt: Impressum
+excerpt: Privacy and Terms
 comments: false
 ---
 
