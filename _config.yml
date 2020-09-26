@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Mario Steiner # author name
   bio: >- # tell to the world
-    A blog about innovation, product and growth, <br> meet me <a href="https://twitter.com/mariostnr" target="_blank" rel="noopener">@mariostnr</a>
+    A blog about innovation, product and growth 🚀, <br> meet me <a href="https://twitter.com/mariostnr" target="_blank" rel="noopener">@mariostnr</a>
   #username: username # author username
   github: github_username
   twitter: twitter_username
