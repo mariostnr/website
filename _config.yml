@@ -76,6 +76,7 @@ exclude:
   - README.md
   - node_modules
   - CODE_OF_CONDUCT.md
+  - impressum.md
 
 # Plugins
 plugins:
