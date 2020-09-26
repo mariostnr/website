@@ -12,7 +12,7 @@ Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §6
 
 Mario Steiner <br>
 Austria <br>
-https://twitter.com/mariostnr
+[Kontakt](https://twitter.com/mariostnr)
 
 ## EU-Streitschlichtung
 
