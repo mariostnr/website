@@ -1,6 +1,6 @@
 ---
 title: Impressum
-permalink: /impressum/
+permalink: /privacy/
 layout: page
 excerpt: Impressum
 comments: false
