@@ -1,7 +1,7 @@
 ---
 title: Wachstum und Erfolg von kollaborativen Software-as-a-Service Produkten
-date: 2020-09-26 11:58:47 +07:00
-modified: 2020-06-26 16:49:47 +07:00
+date: 2020-09-25 11:58:47 
+modified: 2020-09-26 13:49:47
 tags: [saas, product, growth]
 description: Kern meiner Arbeit war es herauszufinden, welche Wirkungsfaktoren sich positiv auf das Wachstum und schlussendlich den finanziellen Erfolg von kollaborativen Software-as-a-Service (SaaS) Produkten auswirken.
 ---
