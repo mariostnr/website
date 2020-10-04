@@ -1,8 +1,12 @@
 ---
 title: Wachstum und Erfolg von kollaborativen Software-as-a-Service Produkten
 date: 2020-09-26 13:04:00 +07:00
-tags: [SaaS, Growth ]
-description: Kern meiner Arbeit war es herauszufinden, welche Wirkungsfaktoren sich positiv auf das Wachstum und schlussendlich den finanziellen Erfolg von kollaborativen Software-as-a-Service (SaaS) Produkten auswirken
+tags:
+  - SaaS
+  - Growth
+description: Kern meiner Arbeit war es herauszufinden, welche Wirkungsfaktoren
+  sich positiv auf das Wachstum und schlussendlich den finanziellen Erfolg von
+  kollaborativen Software-as-a-Service (SaaS) Produkten auswirken
 ---
 
 # Wachstum und Erfolg von kollaborativen Software-as-a-Service Produkten
@@ -20,14 +24,13 @@ Ich möchte mit meiner Arbeit deutschsprachigen Lesern(innen) den Einstieg in di
 ## Wen möchte ich mit meiner Blogserie ansprechen?
 
 - SaaS-Unternehmer, -Marketer und -Entwickler im deutsprachigen Raum
+- Mitarbeiter von Digital-, Growth- und Marketing Agenturen
 - Mitarbeiter jedlicher Organisationsgröße und Branche
-- Mitarbeiter von Digital- und Marketing Agenturen
 - Studenten und jede(n) mit Interesse am Thema Software-as-a-Service
 
 ## Welche Vorteile bietet meine Blogserie?
 
-**tl;dr:** Spare dir unzählige Stunden an zeitaufwendiger Recherche
-
+- Spare dir unzählige Stunden an zeitaufwendiger Recherche 🔍
 - Beleuchtung unterschiedlicher Go-to-Market Strategien inkl. Vor- und Nachteilen
 - Beleuchtung unterschiedliche Faktoren, welche positiv zum Wachstum und Erfolg beitragen können
 - Einblicke in weiterführende Quellen und "Thought Leader" in diesem Bereich
@@ -37,13 +40,6 @@ Ich möchte mit meiner Arbeit deutschsprachigen Lesern(innen) den Einstieg in di
 Die Ziele meiner Masterarbeit waren die Gegenüberstellung von unterschiedlichen Go-to-Market Strategien für SaaS-Produkte und die Ermittlung von Wirkungsfaktoren aus Sicht der Anwender(innen) für das Wachstum und den langfristigen Erfolg von kollaborativen SaaS-Produkten.
 
 Rechtliche Aspekte, wie beispielsweise die Datenschutzgrundverordnung, wurden in meiner Arbeit nicht näher erläutert, um den Umfang der Arbeit in einem angemessenen Rahmen zu halten.
-
-## Welche Forschungsfragen werden beantwortet?
-
-Auf Basis der gewählten Zielsetzungen werden die folgenden beiden Forschungsfragen beantwortet:
-
-- Welche unterschiedlichen Go-to-Market Strategien gibt es für SaaS-Produkte?
-- Welche Wirkungsfaktoren aus Sicht der Anwender(innen) sind für das Wachstum und den langfristigen Erfolg von kollaborativen SaaS-Produkten maßgeblich verantwortlich?
 
 ## Welche Kapitel und Themen werden in den nächsten Wochen und Monaten näher beschrieben?
 
