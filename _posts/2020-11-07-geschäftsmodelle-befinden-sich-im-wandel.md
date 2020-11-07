@@ -6,9 +6,11 @@ description: Produkte werden nicht mehr nur einmal verkauft, sondern es wird
   versucht dynamische Beziehungen zu den Kunden(innen) aufzubauen und diese zu
   langfristigen und loyalen Abonnenten(innen) zu entwickeln.
 ---
-Die Geschäftswelt befindet sich im Wandel. Persönliche Beziehungen und Erlebnisse mit der Marke und deren Produkten rücken in den Vordergrund. Erfolgreiche Unternehmen fokussieren auf das Wachstum von Beziehungen, anstelle von einmaligen Verkäufen und Transaktionen.
+Die Geschäftswelt befindet sich im Wandel. Persönliche Beziehungen und Erlebnisse mit der Marke und rücken in den Vordergrund. 
 
 > „In traditional businesses, the customer relationship ends with the purchase. But in a subscription business the relationship begins with the purchase.” - Tien Tzuo
+
+Erfolgreiche Unternehmen fokussieren auf das Wachstum von Beziehungen, anstelle von einmaligen Verkäufen und Transaktionen.
 
 ## Was versteht man unter dem Begriff Subscription Economy?
 
