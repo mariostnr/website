@@ -10,7 +10,7 @@ Die Geschäftswelt befindet sich im Wandel. Persönliche Beziehungen und Erlebni
 
 > „In traditional businesses, the customer relationship ends with the purchase. But in a subscription business the relationship begins with the purchase.” - Tien Tzuo
 
-Erfolgreiche Unternehmen fokussieren auf das Wachstum von Beziehungen, anstelle von einmaligen Verkäufen und Transaktionen.
+Erfolgreiche Unternehmen fokussieren sich auf das Wachstum von Beziehungen, anstelle von einmaligen Verkäufen und Transaktionen.
 
 ## Was versteht man unter dem Begriff Subscription Economy?
 
