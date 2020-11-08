@@ -24,7 +24,7 @@ Es wird dabei versucht, die Bedürfnisse der Kunden(innen) immer besser zu verst
 
 Dieser Wandel ist eines der Hauptmerkmale der „Subcription Economy“ und an sich nichts Neues, denn Abonnements sind im Medienbereich bereits seit langem etabliert. Was jedoch neu ist, ist die digitale Zustellung der Abonnements über das Internet, verbunden mit enormen Datenmengen und einem immer einfacheren Zugang. 
 
-Tzuo argumentiert, dass durch die weite Verbreitung von mobilen Telefonen und der immer besser werdenden digitalen Nutzererfahrung, es so einfach wie noch nie ist, Dienstleistungen aller Art „as a Service“ zu nutzen, vom Transport, dem Handel, von Software, von Bildungsangeboten, hin zu Gesundheitsservices.
+Tien Tzuo argumentiert, dass durch die weite Verbreitung von mobilen Telefonen und der immer besser werdenden digitalen Nutzererfahrung, es so einfach wie noch nie ist, Dienstleistungen aller Art „as a Service“ zu nutzen, vom Transport, dem Handel, von Software, von Bildungsangeboten, hin zu Gesundheitsservices.
 
 ## Sind Unternehmen welche auf das Abo-Modell setzen auch finanziell erfolgreicher?
 
