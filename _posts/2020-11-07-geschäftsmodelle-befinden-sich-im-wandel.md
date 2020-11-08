@@ -20,9 +20,7 @@ Die Subscription Economy steht für den aktuellen Trend der Abonennten basierend
 
 Etablierte Unternehmen stoßen mit diesem Geschäftsmodell immer mehr an ihre Grenzen, denn die Bedürfnisse der Kunden(innen) haben sich geändert. Das moderne Unternehmen hingegen befindet sich im Wandel von einer produktenzentrierten zu einer kundenzentrierten Denkweise. 
 
-Es wird dabei versucht, die Bedürfnisse der Kunden(innen) immer besser zu verstehen und möglichst viele Informationen über deren Bedürfnisse und Gewohnheiten zusammenzutragen. 
-
-Produkte werden nicht mehr nur einmal verkauft, sondern es wird versucht dynamische Beziehungen zu den Kunden(innen) aufzubauen und diese zu langfristigen und loyalen Abonnenten(innen) zu entwickeln.
+Es wird dabei versucht, die Bedürfnisse der Kunden(innen) immer besser zu verstehen und möglichst viele Informationen über deren Bedürfnisse und Gewohnheiten zusammenzutragen. Produkte werden nicht mehr nur einmal verkauft, sondern es wird versucht dynamische Beziehungen zu den Kunden(innen) aufzubauen und diese zu langfristigen und loyalen Abonnenten(innen) zu entwickeln.
 
 Dieser Wandel ist eines der Hauptmerkmale der „Subcription Economy“ und an sich nichts Neues, denn Abonnements sind im Medienbereich bereits seit langem etabliert. Was jedoch neu ist, ist die digitale Zustellung der Abonnements über das Internet, verbunden mit enormen Datenmengen und einem immer einfacheren Zugang. 
 
@@ -34,7 +32,9 @@ Aus dem aktuellen [Subscription Economy Index (SEI)](https://www.zuora.com/resou
 
 ![Abbildung Performance Subscription Economy](/assets/uploads/zuora-subscription-index-sei-2020.png "Zuora Subscription Index SEI 2020")
 
-In der aktuellen COVID-19 Krise hat sich auch gezeigt, dass Unternehmen, welche auf das Abo-Modell setzen auch widerstandsfähiger sind und besser durch die Krise kommen.
+In der aktuellen COVID-19 Krise hat sich auch gezeigt, dass Unternehmen, welche auf das Abo-Modell setzen zudem widerstandsfähiger sind und besser durch die Krise kommen.
+
+Im nächsten Artikel werde ich im speziellen den Software-as-a-Service (SaaS) Markt hingehend des globalen Marktvolumens, Wachstum und aktueller Trends analysieren, sowie ein Überblick der wichtigsten Metriken und Benchmarks für SaaS-Unternehmen schaffen.
 
 **Quellen:**
 
