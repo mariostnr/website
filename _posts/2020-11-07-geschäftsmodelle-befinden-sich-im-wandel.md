@@ -1,7 +1,7 @@
 ---
 title: Subscription Economy, Geschäftsmodelle im Wandel
 date: 2020-11-07T15:31:01.414Z
-tags: Subscription Economy, SaaS
+tags: Subscription-Economy SaaS
 description: Produkte werden nicht mehr nur einmal verkauft, sondern es wird
   versucht dynamische Beziehungen zu den Kunden(innen) aufzubauen und diese zu
   langfristigen und loyalen Abonnenten(innen) zu entwickeln.
@@ -24,11 +24,11 @@ Es wird dabei versucht, die Bedürfnisse der Kunden(innen) immer besser zu verst
 
 Dieser Wandel ist eines der Hauptmerkmale der „Subcription Economy“ und an sich nichts Neues, denn Abonnements sind im Medienbereich bereits seit langem etabliert. Was jedoch neu ist, ist die digitale Zustellung der Abonnements über das Internet, verbunden mit enormen Datenmengen und einem immer einfacheren Zugang. 
 
-Tzuo argumentiert, dass durch die weite Verbreitung von mobilen Telefonen und der immer besser werdenden digitalen Nutzererfahrung, es so einfach wie noch nie ist, Dienstleistungen aller Art „as a Service“ zu nutzen, vom Transport, dem Handel, von Software, von Bildungsangeboten, hin zu Gesundheitsservices.
+Tien Tzuo argumentiert, dass durch die weite Verbreitung von mobilen Telefonen und der immer besser werdenden digitalen Nutzererfahrung, es so einfach wie noch nie ist, Dienstleistungen aller Art „as a Service“ zu nutzen, vom Transport, dem Handel, von Software, von Bildungsangeboten, hin zu Gesundheitsservices.
 
 ## Sind Unternehmen welche auf das Abo-Modell setzen auch finanziell erfolgreicher?
 
-Aus dem aktuellen [Subscription Economy Index (SEI)](https://www.zuora.com/resource/subscription-economy-index/) vom September 2020 geht hervor, dass der Umsatzwachstum von Unternehmen mit einem Abo-Modell ~ 6x höher ist als das Umsatzwachstum von Unternehmen von [S&P 500 Unternehmen](https://de.wikipedia.org/wiki/S%26P_500).
+Aus dem aktuellen [Subscription Economy Index (SEI)](https://www.zuora.com/resource/subscription-economy-index/) vom September 2020 geht hervor, dass das Umsatzwachstum von Unternehmen mit einem Abo-Modell wesentlich höher ist als das Umsatzwachstum von [S&P 500 Unternehmen](https://de.wikipedia.org/wiki/S%26P_500) wie die nachfolgende Abbildung zeigt.
 
 ![Abbildung Performance Subscription Economy](/assets/uploads/zuora-subscription-index-sei-2020.png "Zuora Subscription Index SEI 2020")
 
