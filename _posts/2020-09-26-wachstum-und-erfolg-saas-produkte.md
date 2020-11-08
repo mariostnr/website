@@ -8,9 +8,6 @@ description: Kern meiner Arbeit war es herauszufinden, welche Wirkungsfaktoren
   sich positiv auf das Wachstum und schlussendlich den finanziellen Erfolg von
   kollaborativen Software-as-a-Service (SaaS) Produkten auswirken
 ---
-
-# Wachstum und Erfolg von kollaborativen Software-as-a-Service Produkten
-
 Im Rahmen meines Masterstudiums an der [FH Technikum Wien](https://www.technikum-wien.at/studium/master/innovations__und_technologiemanagement/) widmete ich meine abschließende Masterarbeit dem Thema:
 
 **"Wachstum und Erfolg von kollaborativen Software-as-a-Service Produkten"**
