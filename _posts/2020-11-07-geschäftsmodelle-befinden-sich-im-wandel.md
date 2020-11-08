@@ -1,7 +1,7 @@
 ---
 title: Subscription Economy, Geschäftsmodelle im Wandel
 date: 2020-11-07T15:31:01.414Z
-tags: Subscription Economy,
+tags: Subscription Economy, SaaS
 description: Produkte werden nicht mehr nur einmal verkauft, sondern es wird
   versucht dynamische Beziehungen zu den Kunden(innen) aufzubauen und diese zu
   langfristigen und loyalen Abonnenten(innen) zu entwickeln.
