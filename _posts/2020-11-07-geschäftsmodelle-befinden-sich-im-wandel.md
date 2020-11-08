@@ -42,4 +42,4 @@ Im nächsten Artikel werde ich im speziellen den Software-as-a-Service (SaaS) Ma
 * [Report - Zuora Subscription Economy Index 2020](https://www.zuora.com/resource/subscription-economy-index/)
 * [Why Surviving the Subscription Economy is About People, Not Products](https://www.profitwell.com/recur/all/subscription-economy)
 
-💡 PS: um in Zukunft keinen Artikel zu verpassen, kannst du mir gerne auf Twitter oder LinkedIn folgen oder dich zu meinem persönlichen Newsletter anmelden.
+💡 PS: um in Zukunft keinen Artikel zu verpassen, kannst du mir gerne auf [Twitter](https://twitter.com/mariostnr) oder [LinkedIn](https://www.linkedin.com/in/mario-steiner) folgen oder dich zu meinem persönlichen [Newsletter](http://eepurl.com/heuGRP) anmelden.
