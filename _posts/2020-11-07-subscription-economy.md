@@ -14,7 +14,7 @@ Erfolgreiche Unternehmen fokussieren sich auf das Wachstum von Beziehungen, anst
 
 ## Was versteht man unter dem Begriff Subscription Economy?
 
-Die Subscription Economy steht für den aktuellen Trend der Abonennten basierenden Geschäftsmodelle. Bisher konzentrierten sich Unternehmen fast ausschließlich darauf ein Produkt zu entwickeln und von diesem Produkt so viele Einheiten wie möglich zu verkaufen. Um dieses Ziel zu erreichen, wurde das Produkt in möglichst vielen Kanälen zum Verkauf angeboten, oftmals ohne Rücksicht auf die Konsumenten und deren Bedürfnisse.
+Die [Subscription Economy](https://de.zuora.com/vision/subscription-economy/) steht für den aktuellen Trend der Abonennten basierenden Geschäftsmodelle. Bisher konzentrierten sich Unternehmen fast ausschließlich darauf ein Produkt zu entwickeln und von diesem Produkt so viele Einheiten wie möglich zu verkaufen. Um dieses Ziel zu erreichen, wurde das Produkt in möglichst vielen Kanälen zum Verkauf angeboten, oftmals ohne Rücksicht auf die Konsumenten und deren Bedürfnisse.
 
 ![Visualisierung des Wandels von einer produktenzentrierten zu einer kundenzentrierten Denkweise](/assets/uploads/zuora-subscription-economy.png "Zuora Subscription Economy")
 
@@ -22,7 +22,7 @@ Etablierte Unternehmen stoßen mit diesem Geschäftsmodell immer mehr an ihre Gr
 
 Es wird dabei versucht, die Bedürfnisse der Kunden(innen) immer besser zu verstehen und möglichst viele Informationen über deren Bedürfnisse und Gewohnheiten zusammenzutragen. Produkte werden nicht mehr nur einmal verkauft, sondern es wird versucht dynamische Beziehungen zu den Kunden(innen) aufzubauen und diese zu langfristigen und loyalen Abonnenten(innen) zu entwickeln.
 
-Dieser Wandel ist eines der Hauptmerkmale der „Subcription Economy“ und an sich nichts Neues, denn Abonnements sind im Medienbereich bereits seit langem etabliert. Was jedoch neu ist, ist die digitale Zustellung der Abonnements über das Internet, verbunden mit enormen Datenmengen und einem immer einfacheren Zugang. 
+Dieser Wandel hinzu [Abo-Geschäftsmodellen](https://learn.g2.com/subscription-business-model) ist eines der Hauptmerkmale der „Subcription Economy“ und an sich nichts Neues, denn Abonnements sind im Medienbereich bereits seit langem etabliert. Was jedoch neu ist, ist die digitale Zustellung der Abonnements über das Internet, verbunden mit enormen Datenmengen und einem immer einfacheren Zugang. 
 
 Tien Tzuo argumentiert, dass durch die weite Verbreitung von mobilen Telefonen und der immer besser werdenden digitalen Nutzererfahrung, es so einfach wie noch nie ist, Dienstleistungen aller Art „as a Service“ zu nutzen, vom Transport, dem Handel, von Software, von Bildungsangeboten, hin zu Gesundheitsservices.
 
