@@ -28,7 +28,7 @@ Tien Tzuo argumentiert, dass durch die weite Verbreitung von mobilen Telefonen u
 
 ## Sind Unternehmen welche auf das Abo-Modell setzen auch finanziell erfolgreicher?
 
-Aus dem aktuellen [Subscription Economy Index (SEI)](https://www.zuora.com/resource/subscription-economy-index/) vom September 2020 geht hervor, dass das Umsatzwachstum von Unternehmen mit einem Abo-Modell ~ 6x höher ist als das Umsatzwachstum von Unternehmen von [S&P 500 Unternehmen](https://de.wikipedia.org/wiki/S%26P_500).
+Aus dem aktuellen [Subscription Economy Index (SEI)](https://www.zuora.com/resource/subscription-economy-index/) vom September 2020 geht hervor, dass das Umsatzwachstum von Unternehmen mit einem Abo-Modell wesentlich höher ist als das Umsatzwachstum von [S&P 500 Unternehmen](https://de.wikipedia.org/wiki/S%26P_500) wie die nachfolgende Abbildung zeigt.
 
 ![Abbildung Performance Subscription Economy](/assets/uploads/zuora-subscription-index-sei-2020.png "Zuora Subscription Index SEI 2020")
 
