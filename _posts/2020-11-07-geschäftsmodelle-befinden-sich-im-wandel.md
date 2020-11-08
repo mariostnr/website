@@ -32,14 +32,10 @@ Tzuo argumentiert, dass durch die weite Verbreitung von mobilen Telefonen und de
 
 Aus dem aktuellen [Subscription Economy Index (SEI)](https://www.zuora.com/resource/subscription-economy-index/) von September 2020 geht hervor, dass der Umsatzwachstum von Unternehmen mit einem Abo-Modell ~ 6x höher ist, als das Umsatzwachstum von Unternehmen ohne einem Abo-Modell.
 
-
-
-
-
-
-
 **Quellen:**
 
 * [Das Abo-Zeitalter - Warum das Abo-Modell die Zukunft ihres Unternehmens ist](https://www.zuora.com/get/das-abo-zeitalter/)
 * [Report - Zuora Subscription Economy Index 2020](https://www.zuora.com/resource/subscription-economy-index/)
 * [Why Surviving the Subscription Economy is About People, Not Products](https://www.profitwell.com/recur/all/subscription-economy)
+
+💡 PS: um in Zukunft keinen Artikel zu verpassen, kannst du mir gerne auf Twitter oder LinkedIn folgen oder dich zu meinem persönlichen Newsletter anmelden.
