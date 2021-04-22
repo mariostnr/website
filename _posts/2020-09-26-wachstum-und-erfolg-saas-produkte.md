@@ -41,9 +41,9 @@ Rechtliche Aspekte, wie beispielsweise die Datenschutzgrundverordnung, wurden in
 ## Welche Kapitel und Themen werden in den nächsten Wochen und Monaten näher beschrieben?
 
 * [Subscription Economy, Geschäftsmodelle im Wandel](https://www.mariosteiner.at/subscription-economy/)
-* Software-as-Service, Trends, Metriken, Benchmarks
-* Zahlen, Fakten und Trends der SaaS-Branche
-* Traction, Product-Market Fit, Acquisition, Retention, Churn, SaaS-Metriken
+* Software-as-Service (SaaS), Zahlen, Fakten, Trends
+* Traction, Product-Market Fit, Acquisition, Retention, Churn
+* SaaS-Metriken und Benchmarks
 * Vergleich unterschiedlicher Go-to-Market Strategien
 * Mögliche Wirkungsfaktoren und Hypothesen
 * Einblicke in meine Forschungsergebnisse
