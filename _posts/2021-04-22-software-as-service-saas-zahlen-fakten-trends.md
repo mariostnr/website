@@ -1,5 +1,5 @@
 ---
-title: Software-as-Service (SaaS), Zahlen, Fakten, Trends
+title: Software-as-a-Service (SaaS), Zahlen, Fakten, Trends
 date: 2021-04-22T17:58:39.718Z
 tags: SaaS Trends
 description: Als Software-as-a-Service (SaaS) bezeichnet man Software, welche
