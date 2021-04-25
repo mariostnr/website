@@ -25,9 +25,9 @@ Die Anwender(innen) werden durch Feedback und Analyse des Nutzungsverhaltens for
 
 ## Was ist der Unterschied zwischen horizontalen und vertikalen SaaS-Produkten?
 
-In den letzten Jahren neben den herkömmlichen branchenübergreifenden (horizontale) SaaS-Lösungen, wie beispielweise Lösungen für Buchhaltung, Marketing oder Sales, branchenspezifische (vertikale) SaaS-Lösungen am Markt etabliert.
+In den letzten Jahren haben sich neben den herkömmlichen branchenübergreifenden (horizontalen) SaaS-Lösungen, wie beispielweise Lösungen für Buchhaltung, Marketing oder Sales, immer stärker branchenspezifische (vertikale) SaaS-Lösungen am Markt etabliert.
 
-Vertikale SaaS-Lösungen fokussieren sich auf eine bestimmte Branchen, wie beispielweise Baugewerbe, Logistik oder Gesundheitswesen und versuchen gezielt branchenspezifische Probleme zu adressieren, welche von den horizontalen Anbietern bisher außer Acht gelassen wurden und versuchen so die etablierten SaaS-Unternehmen unter Druck zu setzen.
+Vertikale SaaS-Lösungen fokussieren sich auf eine bestimmte Branche, wie beispielweise Baugewerbe, Logistik oder Gesundheitswesen und versuchen gezielt branchenspezifische Probleme zu adressieren, welche von den horizontalen Anbietern bisher außer Acht gelassen wurden und versuchen so die etablierten SaaS-Unternehmen unter Druck zu setzen.
 
 ## Zahlen und Fakten zum Software-as-a-Service Markt
 
@@ -98,8 +98,6 @@ Nachfolgend eine Auflistung der [Top 5 privaten SaaS-Unternehmen](https://www.fo
 | [UiPath](https://www.uipath.com/)            | Robotic process automation |
 | [HashiCorp](https://www.hashicorp.com/)      | Infrastructure automation  |
 | [Databricks](https://databricks.com/)        | Data analytics             |
-
-
 
 Im Durschnitt verwenden kleine und mittlere Unternehmen bereits über [20 kostenpflichtige SaaS-Produkte, sowie über 30 kostenfreie SaaS-Produkte](https://www.youtube.com/watch?v=9xSeBWS6pXo) und bezahlen eine monatliche Abogebühren von über 20 Tsd. US-Dollar. Durch die technischen Entwicklungen in den letzten Jahren bieten SaaS-Produkte einen immer stärkeren Komfort, Sicherheit, Kosteneinsparungen und Flexibilität gegenüber klassischen Software-Produkten.
 
