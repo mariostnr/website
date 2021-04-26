@@ -79,13 +79,13 @@ Nachfolgend eine Auflistung der [Top 5 Finanzierungsrunden von SaaS-Unternehmen]
 
 Nachfolgend eine Auflistung der [Top 5 öffentlichen SaaS-Unternehmen ](https://www.mikesonders.com/largest-saas-companies/)im Jahr 2020 auf Basis der Marktkapitalisierung:
 
-| **Unternehmen**                                | **Marktkapitalisierung** |
-| ---------------------------------------------- | ------------------------ |
-| [Adobe Inc.](https://www.adobe.com/)           | $ 250,1                  |
-| [Salesforce Inc.](https://www.salesforce.com/) | $ 214,6                  |
-| [Shopify Inc.](https://www.shopify.com/)       | $ 148,2                  |
-| [Square Inc.](https://squareup.com/)           | $ 119,6                  |
-| [Intuit Inc.](https://www.intuit.com/)         | $ 113,9                  |
+| **Unternehmen**                                | **Marktkapitalisierung (Mrd. $)** |
+| ---------------------------------------------- | --------------------------------- |
+| [Adobe Inc.](https://www.adobe.com/)           | $ 250,1                           |
+| [Salesforce Inc.](https://www.salesforce.com/) | $ 214,6                           |
+| [Shopify Inc.](https://www.shopify.com/)       | $ 148,2                           |
+| [Square Inc.](https://squareup.com/)           | $ 119,6                           |
+| [Intuit Inc.](https://www.intuit.com/)         | $ 113,9                           |
 
 ## Top 5 der privaten SaaS-Unternehmen (2020)
 
