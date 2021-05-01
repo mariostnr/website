@@ -23,9 +23,7 @@ Allgemeine Trends wie beispielweise der Wandel von Desktop zu Mobile, Low-Code P
 
 ## Explosionsartiger Wettbewerb
 
-Durch die niedrigen Entwicklungskosten von neuen Produkten, drängen immer mehr neue Unternehmen und Startups in die Märkte und sorgen für einen explosionsartigen Anstieg des Wettbewerbs. Seit Anbeginn der SaaS-Ära im Jahr 1999 durch Salesforce hat sich die
-
-Bereitschaft, von Venture Capital Gebern in neue SaaS-Unternehmen zu investieren, um einen Faktor 20 explosionsartig gesteigert und der Markt wurde in den letzten Jahren [von rund 150 neuen SaaS-Produkten im Jahr 2011 auf über 8000 neuen SaaS-Produkten im Jahr 2020](https://chiefmartec.com/2020/04/marketing-technology-landscape-2020-martech-5000/) überflutet.
+Durch die niedrigen Entwicklungskosten von neuen Produkten, drängen immer mehr neue Unternehmen und Startups in die Märkte und sorgen für einen explosionsartigen Anstieg des Wettbewerbs. Seit Anbeginn der SaaS-Ära im Jahr 1999 durch Salesforce hat sich die Bereitschaft, von Venture Capital Gebern in neue SaaS-Unternehmen zu investieren, um einen Faktor 20 explosionsartig gesteigert und der Markt wurde in den letzten Jahren [von rund 150 neuen SaaS-Produkten im Jahr 2011 auf über 8000 neuen SaaS-Produkten im Jahr 2020](https://chiefmartec.com/2020/04/marketing-technology-landscape-2020-martech-5000/) überflutet.
 
 Die etablierten SaaS-Unternehmen werden zunehmend von neuen Markteilnehmern herausgefordert und die meisten SaaS-Unternehmen wenden nahezu identische Sales, Marketing oder Customer Success Strategien an, welche mittlerweile stark an Wirkung verloren haben. [Tomasz Tunguz](https://tomtunguz.com/rising-table-stakes-in-saas/) beschreibt die folgenden vier Entwicklungen im SaaS-Markt aufgrund des enormen Wettbewerbs:
 
@@ -79,9 +77,9 @@ Hierbei handelt es sich um Strategien, bei denen das Produkt selbst der wesentli
 
 ## Personalisierung des Produkterlebnisses
 
-Unternehmen versuchen seit langem durch den Einsatz von Webanalyse, Marketing Automatisierung, Kundensupport, Customer Success Maßnahmen und Auswertung der gesammelten Daten, eine holistische Kundensicht zu erhalten. Es ist wichtig zu verstehen wie Kunden(innen) mit dem eigenen Unternehmen und Produkten interagieren, vom ersten Kontakt auf der Website, der Kaufentscheidung, dem Kauf bis hin zu Onboarding und Kundensupport.
+Unternehmen versuchen seit langem durch den Einsatz von Webanalyse, Marketing Automatisierung, Kundensupport, Customer Success Maßnahmen und Auswertung der gesammelten Daten, [eine holistische Kundensicht zu erhalten](http://www.beyondvc.com/2017/04/blurring-lines-enterprise-saas-customer-data.html). Es ist wichtig zu verstehen wie Kunden(innen) mit dem eigenen Unternehmen und Produkten interagieren, vom ersten Kontakt auf der Website, der Kaufentscheidung, dem Kauf bis hin zu Onboarding und Kundensupport.
 
-All [diese Touchpoints werden von Unternehmen zunehmend gesammelt](http://www.beyondvc.com/2017/04/blurring-lines-enterprise-saas-customer-data.html) und für die Entwicklung eines besseren Kundenverständnisses systematisch ausgewertet. Der Einsatz von Machine Learning ermöglicht durch die gesammelten Kundeninformationen ein persönliches und maßgeschneidertes Produkterlebnis, basierend auf den bisherigen Interaktionen mit einem Unternehmen. Dadurch wird die Kundenzufriedenheit gestärkt und Kunden(innen) werden länger an das Unternehmen gebunden.
+All diese Touchpoints werden von Unternehmen zunehmend gesammelt und für die Entwicklung eines besseren Kundenverständnisses systematisch ausgewertet. Der Einsatz von Machine Learning ermöglicht durch die gesammelten Kundeninformationen ein persönliches und maßgeschneidertes Produkterlebnis, basierend auf den bisherigen Interaktionen mit einem Unternehmen. Dadurch wird die Kundenzufriedenheit gestärkt und Kunden(innen) werden länger an das Unternehmen gebunden.
 
 Am Ende des Tages geht es darum, die Kunden(innen) besser zu verstehen, sowie die Kunden(innen) bestmöglich in der Nutzung der eigenen Produkte zu unterstützen und zu schulen. Durch die Personalisierung des Produkterlebnisses können Kunden(innen) langfristig an die eigenen Produkte gebunden werden und maßgeblich zu einer ausbalancierten Wachstumsstrategie beitragen.
 
