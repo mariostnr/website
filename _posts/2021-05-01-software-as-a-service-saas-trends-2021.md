@@ -7,11 +7,11 @@ description: Durch den zunehmenden technologischen Fortschritt war es noch nie
   nachfolgenden Trends prägen den SaaS-Markt in 2021 und werden in diesem
   Artikel kurz beschrieben.
 ---
-Die Eintrittsbarrieren für neue SaaS-Produkte sind durch die zunehmende Digitalisierung und der daraus resultierenden Cloud Services für Infrastruktur und Entwicklungsplattformen für SaaS-Produkte nahezu null.
+Die Eintrittsbarrieren für neue SaaS-Produkte sind durch die zunehmende Digitalisierung und der daraus resultierenden Cloud Services für Infrastruktur und Entwicklungsplattformen für SaaS-Produkte nahezu null. Durch den zunehmenden technologischen Fortschritt war es noch nie einfacher und kostengünstiger ein SaaS-Produkt zu entwickeln.
 
 ## Welche Trends prägen den SaaS-Markt in 2021?
 
-Durch den zunehmenden technologischen Fortschritt war es noch nie einfacher und kostengünstiger ein SaaS-Produkt zu entwickeln. Die nachfolgenden Trends prägen den SaaS-Markt in 2021 und werden in diesem Artikel kurz beschrieben:
+Die nachfolgenden Trends prägen den SaaS-Markt in 2021 und werden in diesem Artikel kurz beschrieben:
 
 * Explosionsartiger Wettbewerb
 * Steigende Kosten für die Kundenakquise
