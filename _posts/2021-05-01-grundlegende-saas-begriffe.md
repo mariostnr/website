@@ -1,6 +1,6 @@
 ---
 title: Grundlegende SaaS-Begriffe
-date: 2021-05-08T12:53:57.381Z
+date: 2021-05-10T06:08:10.775Z
 tags: SaaS Grundlagen Begriffe
 description: Grundlegende Begriffe wie Traction, Product-Market Fit,
   Acquisition, Retention, Churn, Recurring Revenue, Customer Lifetime Value kurz
