@@ -78,7 +78,7 @@ Das Ziel von SaaS-Unternehmen ist es die Kosten für die Akquise von Neukunden (
 
 Ein guter Indikator ist hierbei das [Verhältnis zwischen dem CLV und dem CAC, welches im Idealfall bei über 3:1 liegen sollte](https://www.insightpartners.com/blog/the-10-most-important-saas-metrics-for-high-growth-saas-companies/), sprich der CLV sollte dreimal so hoch sein wie die Kosten für die Gewinnung von neuen Kunden(innen).
 
-Im nächsten Artikel schreibe ich über Benchmarks, welche einen Performancevergleich von SaaS-Unternehmen und -Produkten in den Bereichen Wachstum, Akquise von Neukunden, Expansion und Retention von Bestandskunden und für die Bewertung der Profitabilität von Unternehmen ermöglichen.
+Im nächsten Artikel schreibe ich über die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für Bewertung der Profitabilität von SaaS-Unternehmen.
 
 **Quellen:**
 
