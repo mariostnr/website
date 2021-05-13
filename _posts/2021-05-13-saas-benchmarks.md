@@ -55,9 +55,7 @@ Im Gegensatz zur Retention steht der sogenannte Churn bzw. die Churn Rate, welch
 
 Die Ursache für Churn ist meist eine Lücke zwischen dem Kundenbedürfnis und wie ein Produkt oder Service versucht, dieses Kundenbedürfnis zu befriedigen. 
 
-Generell gilt jedoch, je höher die Churn Rate, umso teurer werden die Kosten
-
-für das weitere Unternehmenswachstum. Um den Verlust zu kompensieren und zu verhindern, dass die Churn Rate größer als die Wachstumsrate wird, müssen immer mehr neue Kunden(innen) gewonnen werden. 
+Generell gilt, je höher die Churn Rate, desto teurer werden die Kosten für das weitere Unternehmenswachstum. Um den Verlust zu kompensieren und zu verhindern, dass die Churn Rate größer als die Wachstumsrate wird, müssen immer mehr neue Kunden(innen) gewonnen werden. 
 
 Die folgende Abbildung zeigt [die durchschnittlichen Churn Rates je Kundensegment](https://tomtunguz.com/saas-innovators-dilemma/):
 
