@@ -11,6 +11,8 @@ Die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum,
 
 ## Akquise
 
+![](/assets/uploads/saas-metriken-akquise.png)
+
 ## Wachstum
 
 ## Expansion
