@@ -15,15 +15,17 @@ Die wichtigste Akquise Metrik sind die Kosten für die Akquise von Neukunden: Co
 
 `CAC = (Gesamtkosten Vetrieb und Marketing) / Anzahl der Neukunden`
 
-Für die weiterführende Berechnung der Profitabilät ist es ebenfalls wichtig die sogenannte Paypack Periode zu wissen, die Zeitdauerdauer bis zur Rückzahlung der CAC (die Payback Periode wird meist in Monaten angegeben).
+Für die weiterführende Berechnung der Profitabilät ist es ebenfalls wichtig die sogenannte Paypack Periode zu wissen, die Zeitdauer bis zur Rückzahlung der CAC (die Payback Periode wird dabei meist in Monaten angegeben).
 
 ## Wachstum
 
 Die wichtigsten Wachstumsmetriken sind der monatlich (MRR) und jährlich (ARR) wiederkehrende Umsatz, welche wie folgt definiert werden:
 
-`MRR = Umsatz pro Monat` und `ARR = MRR * 12` 
+`MRR = Umsatz pro Monat (Monthly Recurring Revenue)`
 
-MRR (monthly recurring revenue); ARR (annual recurring revenue)
+und 
+
+`ARR = MRR * 12 (Annual Recurring Revenue)` 
 
 Weiters ist es essenziell zu wissen, wie schnell ein SaaS-Unternehmen jährlich wächst: 
 
@@ -41,25 +43,25 @@ Der Net MRR kommuniziert den monatlich wiederkehrenden Umsatz inkl. neuem Wachst
 
 `Net MRR = Neuer MRR + MRR + Expansion MRR + Reaktivierungen - Churn - Downgrades`
 
-Weiters ist es wieder wichtig zu wissen, wie schnell ein SaaS-Unternehmen monatlich wächst: 
+Zusätzlich ist es wichtig zu wissen, wie schnell ein SaaS-Unternehmen monatlich wächst: 
 
 `Net MRR Wachstum = (Net MRR am Monatsende - Net MRR am Monatsbeginn) / (Net MRR am Monatsbeginn) in %`
 
-Das monatliche Wachstum wird dazu meist in % angegeben und durch die Net MRR Wachstums Metrik kommuniziert.
+Das monatliche Wachstum wird meist in % angegeben und durch die Net MRR Wachstums Metrik kommuniziert.
 
 ## Retention & Churn
 
-Die wichtigsten Retentionmetriken sind die Retention Rate, sowie die Churn Rate. Die Retention Rate und die Churn Rate werden meist monatlich und jährlich berechnet, in % ausgedrückt und beinflussen sich gegenseitig:
+Die wichtigsten Retentionmetriken sind die Retention Rate, sowie die Churn Rate. Die Retention Rate und die Churn Rate werden meist monatlich und jährlich berechnet, in % ausgedrückt und beeinflussen sich gegenseitig:
 
 `Retention Rate (Gross) = Anzahl der wiederkehrenden Kunden je Zeitperiode in %`
 
 und
 
-`Churn Rate (Gross) = Anahl der verlorenen Kunden je Zeitperiode in %` 
+`Churn Rate (Gross) = Anzahl der verlorenen Kunden je Zeitperiode in %` 
 
 Gross bedeutet, dass die Akquise von Neukunden nicht in die Berechnung einfließen (exkl. neuem Wachstum). Die Gross Raten sind immer unter 100%, berücksichtigen ausschließlich Bestandskunden und sind dadurch besser geeignet um die Nachhaltigkeit des Wachstums zu bestimmen.
 
-Wenn die Akquise von Neukunden in der Berechnung berücksichtigt werden soll, spricht von Retention Rate (Net) bzw. Churn Rate (Net). Hierbei sind Raten über 100% möglich, da auch die Akquise von Neukunden berücksichtigt werden.
+Wenn die Akquise von Neukunden in der Berechnung berücksichtigt werden soll, spricht man von Retention Rate (Net) bzw. Churn Rate (Net). Hierbei sind Raten über 100% möglich, da auch die Akquise von Neukunden berücksichtigt werden.
 
 ## Profitabilität
 
@@ -81,7 +83,7 @@ Die Net Dollar Retention Rate (NDR) ist die wohl wichtigste Profitabilitätsmetr
 
 `NDR = (MRR am Monatsbeginn + Expansion MRR - Churn - Downgrades) / MRR am Monatsbeginn in %`
 
-Für das langfristige Wachstum und Erfolg eines SaaS-Unternehmens ist ein NDR von über 100% essenziell, weil dadurch das SaaS-Unternehmen durch seine Bestandskunden wächst und nicht rein durch die Akquise von Neukunden.
+Für das langfristige Wachstum und Erfolg eines SaaS-Unternehmens ist ein NDR von über 100% essenziell, weil dadurch das SaaS-Unternehmen durch seine Bestandskunden wächst und nicht ausschließlich durch die Akquise von Neukunden.
 
 Im nächsten Artikel schreibe ich über Benchmarks, welche einen Performancevergleich von SaaS-Unternehmen und -Produkten in den Bereichen Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für die Bewertung der Profitabilität von Unternehmen ermöglichen.
 
@@ -90,7 +92,7 @@ Im nächsten Artikel schreibe ich über Benchmarks, welche einen Performanceverg
 * [Baremetrics SaaS Metrics 101](https://baremetrics.com/category/metrics-101)
 * [Chargebee SaaS Metrics Glossary](https://www.chargebee.com/resources/glossaries/#saas_metrics)
 * [GP.Bullhound Quarterly insights into SaaS](https://www.gpbullhound.com/insights/global-software-market-perspectives-q3-2019/)
-* [What is Net Dollar Retention (NDR)] (https://userguiding.com/blog/net-dollar-retention-ndr/)
+* [What is Net Dollar Retention (NDR)](https://userguiding.com/blog/net-dollar-retention-ndr/)
 * [Understanding ACV vs. ARR in SaaS Subscription Business](https://www.profitwell.com/recur/all/acv-vs-arr)
 
 💡 PS: um in Zukunft keinen Artikel zu verpassen, kannst du mir gerne auf [Twitter](https://twitter.com/mariostnr) oder [LinkedIn](https://www.linkedin.com/in/mario-steiner) folgen oder dich zu meinem persönlichen [Newsletter](http://eepurl.com/heuGRP) anmelden.
