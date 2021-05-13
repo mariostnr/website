@@ -1,5 +1,5 @@
 ---
-title: SaaS Benchmarks
+title: Benchmarks für den Performancevergleich von SaaS-Unternehmen
 date: 2021-05-13T18:25:41.593Z
 tags: SaaS Benchmarks
 description: Benchmarks für Akquise von Neukunden, Wachstum, Expansion und
