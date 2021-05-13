@@ -49,8 +49,17 @@ Das monatliche Wachstum wird dazu meist in % angegeben und durch die Net MRR Wac
 
 ## Retention & Churn
 
-Die wichtigsten Retentionmetriken sind der 
+Die wichtigsten Retentionmetriken sind die Retention Rate, sowie die Churn Rate. Die Retention Rate und die Churn Rate werden meist monatlich und jährlich berechnet, in % ausgedrückt und beinflussen sich gegenseitig:
 
+`Retention Rate (Gross) = Anzahl der wiederkehrenden Kunden je Zeitperiode in %`
+
+und
+
+`Churn Rate (Gross) = Anahl der verlorenen Kunden je Zeitperiode in %` 
+
+Gross bedeutet, dass die Akquise von Neukunden nicht in die Berechnung einfließen (exkl. neuem Wachstum). Die Gross Raten sind immer unter 100%, berücksichtigen ausschließlich Bestandskunden und sind dadurch besser geeignet um die Nachhaltigkeit des Wachstums zu bestimmen.
+
+Wenn die Akquise von Neukunden in der Berechnung berücksichtigt werden soll, spricht von Retention Rate (Net) bzw. Churn Rate (Net). Hierbei sind Raten über 100% möglich, da auch die Akquise von Neukunden berücksichtigt werden.
 
 ## Profitabilität
 
@@ -72,7 +81,7 @@ Die Net Dollar Retention Rate (NDR) ist die wohl wichtigste Profitabilitätsmetr
 
 `NDR = (MRR am Monatsbeginn + Expansion MRR - Churn - Downgrades) / MRR am Monatsbeginn in %`
 
-Für das langfristige Wachstum und Erfolg eines SaaS-Unternehmens ist ein NDR von über 100% essenziell, weil dadurch das SaaS-Unternehmen durch seine Bestandskunden wächst und nicht durch die Akquise von Neukunden.
+Für das langfristige Wachstum und Erfolg eines SaaS-Unternehmens ist ein NDR von über 100% essenziell, weil dadurch das SaaS-Unternehmen durch seine Bestandskunden wächst und nicht rein durch die Akquise von Neukunden.
 
 Im nächsten Artikel schreibe ich über Benchmarks, welche einen Performancevergleich von SaaS-Unternehmen und -Produkten in den Bereichen Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für die Bewertung der Profitabilität von Unternehmen ermöglichen.
 
