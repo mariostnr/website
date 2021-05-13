@@ -65,6 +65,7 @@ Die folgende Abbildung zeigt [die durchschnittlichen Churn Rates je Kundensegmen
 |Mid-Market|1 bis 2 %|11% bis 22%|
 |Enterprise|0,5 bis 1%| 6% bis 10%|
 
+
 
 Im Gegensatz zur Retention Rate gilt für die Churn Rate, je höher der durchschnittliche ACV wird, desto niedriger sollte die monatliche und jährliche Churn Rate werden.
 
@@ -72,7 +73,7 @@ Im Gegensatz zur Retention Rate gilt für die Churn Rate, je höher der durchsch
 
 Das Ziel von SaaS-Unternehmen ist es, die Kosten für die Akquise von Neukunden (CAC) zu minimieren und die Retention von Kunden(innen) zu maximieren, um dadurch den CLV zu maximieren und ein langfristig erfolgreiches Geschäftsmodell zu etablieren. 
 
-Ein guter Indikator ist hierbei [das Verhältnis zwischen dem CLV und dem CAC, welches im Idealfall bei über 3:1 liegen sollte] (https://www.insightpartners.com/blog/the-10-most-important-saas-metrics-for-high-growth-saas-companies/), sprich der CLV sollte dreimal so hoch sein wie die Kosten für die Gewinnung von neuen Kunden(innen). 
+Ein guter Indikator ist hierbei [das Verhältnis zwischen dem CLV und dem CAC, welches im Idealfall bei über 3:1 liegen sollte](https://www.insightpartners.com/blog/the-10-most-important-saas-metrics-for-high-growth-saas-companies/), sprich der CLV sollte dreimal so hoch sein wie die Kosten für die Gewinnung von neuen Kunden(innen). 
 
 Aus einer [KeyBanc Capital Markets Umfrage](https://www.key.com/kco/images/2019_KBCM_saas_survey_102319.pdf) geht hervor, dass die erfolgreichsten SaaS-Unternehmen dabei im Durchschnitt zwischen 5 und 15 Monate, um die CAC zu kompensieren. Die durchschnittlichen operativen Ausgaben für Sales und Marketing pendeln dabei zwischen 30% und 42% in Abhängigkeit des erwirtschafteten ARR. Im Durchschnitt beträgt die Bruttomarge (Total Gross Margin) der erfolgreichsten SaaS-Unternehmen rund 63% bis 68% und der erwirtschaftete operative Gewinn (EBIT Margin) zwischen 30% und 20% je nach ARR.
 
