@@ -59,27 +59,15 @@ Generell gilt jedoch, je höher die Churn Rate, umso teurer werden die Kosten
 
 für das weitere Unternehmenswachstum. Um den Verlust zu kompensieren und zu verhindern, dass die Churn Rate größer als die Wachstumsrate wird, müssen immer mehr neue Kunden(innen) gewonnen werden. 
 
-Die folgende Abbildung zeigt die durchschnittlichen Churn Rates je Kundensegment:
+Die folgende Abbildung zeigt [die durchschnittlichen Churn Rates je Kundensegment](https://tomtunguz.com/saas-innovators-dilemma/):
 
-|Header1 |Header2  | Header3|
+|Kundensegment |Monatlicher Kunden Churn %  | Jährlicher Kunden Churn %|
 --- | --- | ---
-|data1|data2|data3|
-|data11|data12|data13|
+|SMB|3 bis 7 %|31% bis 58%|
+|Mid-Market|1 bis 2 %|11% bis 22%|
+|Enterprise|0,5 bis 1%| 6% bis 10%|
 
-
-Kundensegment Monatlicher Kunden Churn % Jährlicher Kunden Churn %
-SMB
-3 bis 7 %
-31% bis 58%
-Mid-Market
-1 bis 2 %
-11% bis 22%
-Enterprise
-0,5 bis 1%
-6% bis 10%
-Tabelle 3: Churn Rates je Kundensegment (Tunguz, 2014)
-
-
+
 Im Gegensatz zur Retention Rate gilt für die Churn Rate, je höher der durchschnittliche ACV wird, desto niedriger sollte die monatliche und jährliche Churn Rate werden.
 
 ## Profitabilität
