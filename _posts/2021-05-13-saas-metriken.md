@@ -39,7 +39,7 @@ Die wichtigsten Expansionsmetriken sind der Expansion MRR, Net MRR und Net MRR G
 
 Der Net MRR kommuniziert den monatlich wiederkehrenden Umsatz inkl. neuem Wachstum und Churn:
 
-`Net MRR = MRR + Expansion MRR + neue Umsätze + Reaktivierungen - Churn - Downgrades`
+`Net MRR = Neuer MRR + MRR + Expansion MRR + Reaktivierungen - Churn - Downgrades`
 
 Weiters ist es wieder wichtig zu wissen, wie schnell ein SaaS-Unternehmen monatlich wächst: 
 
@@ -47,16 +47,41 @@ Weiters ist es wieder wichtig zu wissen, wie schnell ein SaaS-Unternehmen monatl
 
 Das monatliche Wachstum wird dazu meist in % angegeben und durch die Net MRR Wachstums Metrik kommuniziert.
 
-## Retention
+## Retention & Churn
+
+Die wichtigsten Retentionmetriken sind der 
+
 
 ## Profitabilität
 
-Im nächsten Artikel schreibe ich über Benchmarks, welche einen Performancevergleich von SaaS-Unternehmen und -Produkten in den Bereichen Wachstum, Akquise von Neukunden, Expansion und Retention von Bestandskunden und für die Bewertung der Profitabilität von Unternehmen ermöglichen.
+Die wichtigsten Profitabilitätsmetriken sind der ARPA, ACV, CLV und die NDR. Der ARPA (Average Revenue Per Account) wird meist monatlich oder jährlich berechnet und kommuniziert den durchschnittlichen Umsatz je Kunde:
+
+`ARPA = MRR / Anzahl der Kunden`
+
+Der ACV (Annual Contract Value) hingegen beschreibt das jährliche Vertragsvolumen aller Kunden (normalisiert):
+
+`ACV = Jährliche Vertragsvolumen / Anzahl der Vertragsjahre`
+
+Der ACV wird meist verwendet zur Bewertung der Vertriebs- und Customer Success Performance, sowieso als Grundlage für weitere Investitionen in diese Bereiche.
+
+Der CLV (Customer Lifetime Value) drückt den Profit je Kunde über den gesamten Zeitraum der Geschäftsbeziehung aus:
+
+`CLV = (Net MRR * Deckungsbeitrag) / Anzahl der Kunden`
+
+Die Net Dollar Retention Rate (NDR) ist die wohl wichtigste Profitabilitätsmetrik und ermöglicht Einblicke in die Umsatzfluktuation von Bestandskunden:
+
+`NDR = (MRR am Monatsbeginn + Expansion MRR - Churn - Downgrades) / MRR am Monatsbeginn in %`
+
+Für das langfristige Wachstum und Erfolg eines SaaS-Unternehmens ist ein NDR von über 100% essenziell, weil dadurch das SaaS-Unternehmen durch seine Bestandskunden wächst und nicht durch die Akquise von Neukunden.
+
+Im nächsten Artikel schreibe ich über Benchmarks, welche einen Performancevergleich von SaaS-Unternehmen und -Produkten in den Bereichen Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für die Bewertung der Profitabilität von Unternehmen ermöglichen.
 
 **Quellen:**
 
-* [Baremetrics Metrics 101](https://baremetrics.com/category/metrics-101)
+* [Baremetrics SaaS Metrics 101](https://baremetrics.com/category/metrics-101)
+* [Chargebee SaaS Metrics Glossary](https://www.chargebee.com/resources/glossaries/#saas_metrics)
 * [GP.Bullhound Quarterly insights into SaaS](https://www.gpbullhound.com/insights/global-software-market-perspectives-q3-2019/)
-* [Geckoboard KPI Examples](https://www.geckoboard.com/best-practice/kpi-examples/)
+* [What is Net Dollar Retention (NDR)] (https://userguiding.com/blog/net-dollar-retention-ndr/)
+* [Understanding ACV vs. ARR in SaaS Subscription Business](https://www.profitwell.com/recur/all/acv-vs-arr)
 
 💡 PS: um in Zukunft keinen Artikel zu verpassen, kannst du mir gerne auf [Twitter](https://twitter.com/mariostnr) oder [LinkedIn](https://www.linkedin.com/in/mario-steiner) folgen oder dich zu meinem persönlichen [Newsletter](http://eepurl.com/heuGRP) anmelden.
