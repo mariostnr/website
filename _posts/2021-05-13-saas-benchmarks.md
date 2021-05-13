@@ -49,6 +49,39 @@ Zusätzlich hat die Retention Rate eine sehr starken Einfluss auf die jährliche
 
 Können diese Retention Rates nicht erreicht werden ist es dringend erforderlich die Situation genauer zu analysieren, um den entstandenen Churn besser zu verstehen und schnellstmöglich Gegenmaßnahmen einzuleiten.
 
+## Churn
+
+Im Gegensatz zur Retention steht der sogenannte Churn bzw. die Churn Rate, welche den prozentualen Anteil wie viele Kunden(innen) ein Produkt oder Service innerhalb einer definierten Periode nicht mehr verwenden, z.B.: nach einem Monat oder nach einem Jahr. 
+
+Die Ursache für Churn ist meist eine Lücke zwischen dem Kundenbedürfnis und wie ein Produkt oder Service versucht, dieses Kundenbedürfnis zu befriedigen. 
+
+Generell gilt jedoch, je höher die Churn Rate, umso teurer werden die Kosten
+
+für das weitere Unternehmenswachstum. Um den Verlust zu kompensieren und zu verhindern, dass die Churn Rate größer als die Wachstumsrate wird, müssen immer mehr neue Kunden(innen) gewonnen werden. 
+
+Die folgende Abbildung zeigt die durchschnittlichen Churn Rates je Kundensegment:
+
+|Header1 |Header2  | Header3|
+--- | --- | ---
+|data1|data2|data3|
+|data11|data12|data13|
+
+
+Kundensegment Monatlicher Kunden Churn % Jährlicher Kunden Churn %
+SMB
+3 bis 7 %
+31% bis 58%
+Mid-Market
+1 bis 2 %
+11% bis 22%
+Enterprise
+0,5 bis 1%
+6% bis 10%
+Tabelle 3: Churn Rates je Kundensegment (Tunguz, 2014)
+
+
+Im Gegensatz zur Retention Rate gilt für die Churn Rate, je höher der durchschnittliche ACV wird, desto niedriger sollte die monatliche und jährliche Churn Rate werden.
+
 ## Profitabilität
 
 Im nächsten Artikel versuche ich unterschiedliche Go-to-Market Strategien für SaaS-Produkte näher zu beschreiben und zu vergleichen.
