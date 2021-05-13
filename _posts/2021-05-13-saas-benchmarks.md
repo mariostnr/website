@@ -72,13 +72,19 @@ Im Gegensatz zur Retention Rate gilt für die Churn Rate, je höher der durchsch
 
 ## Profitabilität
 
-Im nächsten Artikel versuche ich unterschiedliche Go-to-Market Strategien für SaaS-Produkte näher zu beschreiben und zu vergleichen.
+Das Ziel von SaaS-Unternehmen ist es, die Kosten für die Akquise von Neukunden (CAC) zu minimieren und die Retention von Kunden(innen) zu maximieren, um dadurch den CLV zu maximieren und ein langfristig erfolgreiches Geschäftsmodell zu etablieren. 
+
+Ein guter Indikator ist hierbei [das Verhältnis zwischen dem CLV und dem CAC, welches im Idealfall bei über 3:1 liegen sollte] (https://www.insightpartners.com/blog/the-10-most-important-saas-metrics-for-high-growth-saas-companies/), sprich der CLV sollte dreimal so hoch sein wie die Kosten für die Gewinnung von neuen Kunden(innen). 
+
+Aus einer [KeyBanc Capital Markets Umfrage](https://www.key.com/kco/images/2019_KBCM_saas_survey_102319.pdf) geht hervor, dass die erfolgreichsten SaaS-Unternehmen dabei im Durchschnitt zwischen 5 und 15 Monate, um die CAC zu kompensieren. Die durchschnittlichen operativen Ausgaben für Sales und Marketing pendeln dabei zwischen 30% und 42% in Abhängigkeit des erwirtschafteten ARR. Im Durchschnitt beträgt die Bruttomarge (Total Gross Margin) der erfolgreichsten SaaS-Unternehmen rund 63% bis 68% und der erwirtschaftete operative Gewinn (EBIT Margin) zwischen 30% und 20% je nach ARR.
 
 **Quellen:**
 
 * [The SaaS Adventure. TechCrunch](https://techcrunch.com/2015/02/01/the-saas-travel-adventure/)
 * [Analyzing expansion revenue of 5,000+ SaaS companies](https://www.reforge.com/brief/analyzing-expansion-revenue-of-5-000-saas-companies#PyQJuOj_FYurBSQP6uazBw)
 * [Lessons learned from 3k SaaS Companies](https://www.slideshare.net/SaaStock/lessons-learned-from-3k-saas-companies-patrick-campbell-ceo-price-intelligently)
+* [KeyBanc Capital Markets 10th Annual SaaS Survey](https://www.key.com/kco/images/2019_KBCM_saas_survey_102319.pdf)
+* [The 10 Most Important SaaS Metrics for High-growth SaaS Companies](https://www.insightpartners.com/blog/the-10-most-important-saas-metrics-for-high-growth-saas-companies/)
 * [Is content marketing dead? Here’s some data](https://www.profitwell.com/recur/all/content-marketing-customer-acquisition-cost)
 * [2019 Expansion SaaS Benchmarks Report](https://openviewpartners.com/expansion-saas-benchmarks)
 * [State of the Cloud 2019](https://www.bvp.com/atlas/state-of-the-cloud-2019/)
