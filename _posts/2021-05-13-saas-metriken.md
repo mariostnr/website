@@ -11,7 +11,13 @@ Die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum,
 
 ## Akquise
 
-CAC - die Kosten für die Akquise von Neukunden
+Die Kosten für die Akquise von Neukunden: Cost of Customer Acquisition oder kurz CAC
+
+`dasddasdasdasda` adasdadasdas
+
+```csharp
+CAC = Gesamtkosten / Anzahl der Neukunden
+```
 
 <iframe src="https://math.embed.fun/embed/seDq4YNUuDwq53QAEd6HQn" frameborder="0" width="418" height="152"></iframe>
 
