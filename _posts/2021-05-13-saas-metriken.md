@@ -1,5 +1,5 @@
 ---
-title: SaaS Metriken
+title: Die wichtigsten SaaS Metriken kurz erklärt
 date: 2021-05-13T09:48:35.258Z
 tags: SaaS Metriken
 description: Die wichtigsten SaaS-Metriken für die Bereiche Akquise von
@@ -10,6 +10,10 @@ description: Die wichtigsten SaaS-Metriken für die Bereiche Akquise von
 Die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für Bewertung der Profitabilität von SaaS-Unternehmen werden nachfolgend kurz erklärt.
 
 ## Akquise
+
+CAC - die Kosten für die Akquise von Neukunden
+
+<iframe src="https://math.embed.fun/embed/seDq4YNUuDwq53QAEd6HQn" frameborder="0" width="418" height="152"></iframe>
 
 ![](/assets/uploads/saas-metriken-akquise.png)
 
