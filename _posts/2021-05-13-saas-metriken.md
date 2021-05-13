@@ -1,5 +1,5 @@
 ---
-title: Die wichtigsten SaaS Metriken kurz erklärt
+title: Die wichtigsten SaaS-Metriken kurz erklärt
 date: 2021-05-13T09:48:35.258Z
 tags: SaaS Metriken
 description: Die wichtigsten SaaS-Metriken für die Bereiche Akquise von
@@ -13,7 +13,7 @@ Die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum,
 
 Die wichtigste Akquise Metrik sind die Kosten für die Akquise von Neukunden: Cost of Customer Acquisition oder kurz CAC. Die Kosten für die Akquise von Neukunden werden wie folgt definiert:
 
-`CAC = Gesamtkosten Vetrieb und Marketing / Anzahl der Neukunden`
+`CAC = (Gesamtkosten Vetrieb und Marketing) / Anzahl der Neukunden`
 
 Für die weiterführende Berechnung der Profitabilät ist es ebenfalls wichtig die sogenannte Paypack Periode zu wissen, die Zeitdauerdauer bis zur Rückzahlung der CAC (die Payback Periode wird meist in Monaten angegeben).
 
@@ -27,11 +27,25 @@ MRR (monthly recurring revenue); ARR (annual recurring revenue)
 
 Weiters ist es essenziell zu wissen, wie schnell ein SaaS-Unternehmen jährlich wächst: 
 
-`YoY = (ARR am Jahresende - ARR am Jahresbeginn)/(ARR am Jahresbeginn) in %`
+`YoY = (ARR am Jahresende - ARR am Jahresbeginn) / (ARR am Jahresbeginn) in %`
 
 Das jährliche Wachstum wird dazu meist in % angegeben und durch die YoY (Year over Year) Metrik kommuniziert.
 
 ## Expansion
+
+Die wichtigsten Expansionsmetriken sind der Expansion MRR, Net MRR und Net MRR Growth. Der Expansion MRR kommuniziert den neuen Umsatz je Bestandskunden in einem Monat:
+
+`Expansion MRR = (Neuer Umsatz aus Up-sells und Cross-sells am Monatsende) / Umsatz am Monatsbeginn`
+
+Der Net MRR kommuniziert den monatlich wiederkehrenden Umsatz inkl. neuem Wachstum und Churn:
+
+`Net MRR = MRR + Expansion MRR + neue Umsätze + Reaktivierungen - Churn - Downgrades`
+
+Weiters ist es wieder wichtig zu wissen, wie schnell ein SaaS-Unternehmen monatlich wächst: 
+
+`Net MRR Wachstum = (Net MRR am Monatsende - Net MRR am Monatsbeginn) / (Net MRR am Monatsbeginn) in %`
+
+Das monatliche Wachstum wird dazu meist in % angegeben und durch die Net MRR Wachstums Metrik kommuniziert.
 
 ## Retention
 
