@@ -11,19 +11,25 @@ Die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum,
 
 ## Akquise
 
-Die Kosten für die Akquise von Neukunden: Cost of Customer Acquisition oder kurz CAC
+Die wichtigste Akquise Metrik sind die Kosten für die Akquise von Neukunden: Cost of Customer Acquisition oder kurz CAC. Die Kosten für die Akquise von Neukunden werden wie folgt definiert:
 
 `CAC = Gesamtkosten Vetrieb und Marketing / Anzahl der Neukunden`
 
-```yaml
-CAC = Gesamtkosten / Anzahl der Neukunden
-```
-
-<iframe src="https://math.embed.fun/embed/seDq4YNUuDwq53QAEd6HQn" frameborder="0" width="418" height="152"></iframe>
-
-![](/assets/uploads/saas-metriken-akquise.png)
+Für die weiterführende Berechnung der Profitabilät ist es ebenfalls wichtig die sogenannte Paypack Periode zu wissen, die Zeitdauerdauer bis zur Rückzahlung der CAC (die Payback Periode wird meist in Monaten angegeben).
 
 ## Wachstum
+
+Die wichtigsten Wachstumsmetriken sind der monatlich (MRR) und jährlich (ARR) wiederkehrende Umsatz, welche wie folgt definiert werden:
+
+`MRR = Umsatz pro Monat` und `ARR = MRR * 12` 
+
+MRR (monthly recurring revenue); ARR (annual recurring revenue)
+
+Weiters ist es essenziell zu wissen, wie schnell ein SaaS-Unternehmen jährlich wächst: 
+
+`YoY = (ARR am Jahresende - ARR am Jahresbeginn)/(ARR am Jahresbeginn) in %`
+
+Das jährliche Wachstum wird dazu meist in % angegeben und durch die YoY (Year over Year) Metrik kommuniziert.
 
 ## Expansion
 
