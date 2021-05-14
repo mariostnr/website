@@ -18,6 +18,8 @@ Eine [durchdachte GTM Strategie](https://blog.hubspot.com/sales/gtm-strategy) is
 
 ## Unterschied zwischen klassischen Software und SaaS-Produkten
 
+Der herkömmliche Marketing- und Sales-Funnel adressiert lediglich die Akquisestrategie (Aquisition), um potenzielle Kunden(innen) auf das eigene Software Produkt aufmerksam zu machen und zu einem Sign-up für eine Trial- oder Freemium Nutzung zu motivieren. 
+
 Anders als bei Vermarktung und dem Vertrieb von klassischen Software Produkten, handelt es sich bei SaaS-Produkten um dynamische Kundenbeziehungen, in deren Mittelpunkt der Kunde(in) bzw. Abonnent(in) steht. Der initiale Kauf eines SaaS-Produktes ist anders wie bei physischen Produkten nicht das Ende der Kundenbeziehung, sondern der Beginn der Kundenbeziehung, mit der Zielsetzung diese so lang wie möglich aufrecht zu erhalten und immer weiter zu stärken. 
 
 Eine GTM Strategie für SaaS-Produkte beinhaltet aus diesem Grund neben einer Akquisestrategie, eine Retentionstrategie und eine Expansions-strategie, um Kunden(innen) möglichst langfristig zu halten und das weitere Wachstum gezielt zu fördern. 
@@ -28,9 +30,7 @@ Blickt man auf den Kundenlebenszyklus von SaaS-Produkten, angefangen von der Üb
 
 ![Kundenlebenszyklus eines SaaS-Produktes](/assets/uploads/saas-customer-lifecycle-framework.png "Kundenlebenszyklus eines SaaS-Produktes")
 
-Der [Kundenlebenszyklus von SaaS-Produkten](https://intrinsicpoint.com/ch-4-taking-an-outside-in-perspective-of-the-customer-lifecycle-93f92b605fee) wird bei SaaS-Produkten maßgeblich vom Produkt selbst bestimmt, dem sogenannten Produktengagement. Der herkömmliche Marketing- und Sales-Funnel adressiert lediglich die Akquisestrategie (Aquisition), um potenzielle Kunden(innen) auf das eigene SaaS-Produkt aufmerksam zu machen und zu einem Sign-up für eine Trial- oder Freemium Nutzung zu motivieren. 
-
-Das Produktengagement jedoch erstreckt sich dabei im weiteren Kundenlebenszyklus von der Produktaktivierung (Adoption/Activation), sprich dem Erleben des „Aha“ Moments und dem Wertversprechen für die Problemlösung, hin zu der wiederverkehrenden und langfristen Produktnutzung (Retention) und abschließend zur Weiterempfehlung (Expansion) des Produktes an Kollegen und Freunden. 
+Der [Kundenlebenszyklus von SaaS-Produkten](https://intrinsicpoint.com/ch-4-taking-an-outside-in-perspective-of-the-customer-lifecycle-93f92b605fee) wird bei SaaS-Produkten maßgeblich vom Produkt selbst bestimmt, dem sogenannten Produktengagement. Das Produktengagement erstreckt sich dabei im weiteren Kundenlebenszyklus von der Produktaktivierung (Adoption/Activation), sprich dem Erleben des „Aha“ Moments und dem Wertversprechen für die Problemlösung, hin zu der wiederverkehrenden und langfristen Produktnutzung (Retention) und abschließend zur Weiterempfehlung (Expansion) des Produktes an Kollegen und Freunden.
 
 Es gilt, [je nach dem angestrebten Zielmarkt, der Zielgruppe(n) und der Produktkomplexität eine für das eigene SaaS-Produktes](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) passende GTM Strategie zu entwickeln, um so die Erfolgschancen des eigenen Produktes deutlich zu erhöhen. Denn es macht einen großen Unterschied, ob man 1000 Großkunden mit einem jährlichen Vertragsvolumen von über 100 Tsd. US-Dollar oder 1 000 000 Kleinkunden mit einem jährlichen Vertragsvolumen von 100 US-Dollar für sich gewinnen möchte.
 
