@@ -16,11 +16,13 @@ Ein gutes Produkt ist noch lange kein Erfolgsgarant im sehr stark umkämpften Sa
 
 Eine [durchdachte GTM Strategie](https://blog.hubspot.com/sales/gtm-strategy) ist dabei die Grundlage für den langfristigen Produkterfolg und erfordert ein gutes Marktverständnis inkl. aktueller Trends, definierte Zielgruppen, einen Marketingplan und eine Vertriebsstrategie, um die richtigen Kunden zu gewinnen und sich so vom Wettbewerb abzusetzen. 
 
-Eine GTM Strategie für SaaS-Produkte beinhaltet aus diesem Grund neben einer Akquisestrategie, eine Retentionstrategie und eine Expansions-strategie, um Kunden(innen) möglichst langfristig zu halten und das weitere Wachstum gezielt zu fördern. 
-
 ## Unterschied zwischen klassischen Software und SaaS-Produkten
 
 Anders als bei Vermarktung und dem Vertrieb von klassischen Software Produkten, handelt es sich bei SaaS-Produkten um dynamische Kundenbeziehungen, in deren Mittelpunkt der Kunde(in) bzw. Abonnent(in) steht. Der initiale Kauf eines SaaS-Produktes ist anders wie bei physischen Produkten nicht das Ende der Kundenbeziehung, sondern der Beginn der Kundenbeziehung, mit der Zielsetzung diese so lang wie möglich aufrecht zu erhalten und immer weiter zu stärken. 
+
+Eine GTM Strategie für SaaS-Produkte beinhaltet aus diesem Grund neben einer Akquisestrategie, eine Retentionstrategie und eine Expansions-strategie, um Kunden(innen) möglichst langfristig zu halten und das weitere Wachstum gezielt zu fördern. 
+
+## Kundenlebenszyklus von SaaS-Produkten
 
 Blickt man auf den Kundenlebenszyklus von SaaS-Produkten, angefangen von der Überlegung, dem Kauf, der Nutzung und hin zur Weiterempfehlung eines SaaS-Produktes, zeigt sich relativ schnell, dass sich dieser grundlegend vom herkömmlichen Marketing- und Sales-Funnel unterscheidet, wie die nachfolgende Abbildung zeigt:
 
