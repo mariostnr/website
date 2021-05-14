@@ -38,22 +38,25 @@ Es gilt, [je nach dem angestrebten Zielmarkt, der Zielgruppe(n) und der Produktk
 
 Nachfolgend werden unterschiedliche GTM Strategien für SaaS-Produkte kurz beschrieben und die Anwendungsmöglichkeiten und Erfolgskriterien der jeweiligen Strategie vorgestellt.
 
-Joel York bezeichnet die drei wichtigsten Vertriebsmodelle für Saas-Produkte als Self-Service, Transactional und Enterprise (York, 2012). Die Wahl des Vertriebsmodells wird dabei maßgeblich von dem angestrebten Preispunkt und der Produktkomplexität bestimmt, wie die nachfolgende Abbildung zeigt:
+Joel York bezeichnet [die drei wichtigsten Vertriebsmodelle für Saas-Produkte als Self-Service, Transactional und Enterprise](http://chaotic-flow.com/media/saas-sales-models.pdf). Die Wahl des Vertriebsmodells wird dabei maßgeblich von dem angestrebten Preispunkt und der Produktkomplexität bestimmt, wie die nachfolgende Abbildung zeigt:
+
+![Unterschiedliche SaaS Vertriebsmodelle](/assets/uploads/saas-vertriebsmodelle-go-to-market.jpg "SaaS Vertriebsmodelle")
 
 Das Self-Service Vertriebsmodell (produktorientiert) eignet sich vor allem für einen niedrigen Preispunkt und eine niedrige Produktkomplexität. Es verzichtet dabei weitgehend auf ein Vertriebsteam und ermöglicht den Kunden(innen) den Kauf eigenständig durchzuführen und das Produkt direkt und mittels einem einfachen und benutzerfreundlichen Onboarding zu nutzen. Die Aufgabe des Marketing ist hierbei größtmögliche Aufmerksamkeit für das Produkt zu generieren und durch die Veröffentlichung von Educational Content, die bestmögliche Produktnutzung zu ermöglichen. 
 
 Das Transactional Vertriebsmodell (marketingorientiert) eignet sich eher für einen hohen Preispunkt und eine niedrige Produktkomplexität. Denn sobald der Preis für ein Produkt steigt, ändert sich auch die Erwartungshaltung und es wird versucht eine langfriste Geschäftsbeziehung aufzubauen. Es wird eine professionelle und effiziente Unterstützung bei der Produktnutzung, garantierte Supportzeiten, ein persönlichen Kontakt und eine menschliche Ansprechperson erwartet. Das Vertriebsteam wird hierbei bestmöglich vom Marketing durch die Vorbereitung von sogenannten Sales Qualified Leads (SQL) unterstützt. Es wird versucht, durch Automatisierung von Vertriebsprozessen die Produktivität je Vertriebsmitarbeiter weiter zu steigern.
 
-Das Enterprise Vertriebsmodell (salesorientiert) eignet sich vor allem für einen hohen Preispunkt und eine hohe Produktkomplexität. Umso komplexer einer Produkt ist, umso mehr bedarf es auch einer professionellen Beratung und Erklärung durch ein geschultes Vertriebsteam. Die Kombination eines niedrigen Preispunktes und einer hohen Produktkomplexität sollte laut York jedenfalls vermieden werden und ist langfristig nicht wirtschaftlich. Viele SaaS-Unternehmen scheitern hierbei und landen auf dem sogenannten „Startup Graveyard“ (York, 2012). 
+Das Enterprise Vertriebsmodell (salesorientiert) eignet sich vor allem für einen hohen Preispunkt und eine hohe Produktkomplexität. Umso komplexer einer Produkt ist, umso mehr bedarf es auch einer professionellen Beratung und Erklärung durch ein geschultes Vertriebsteam. Die Kombination eines niedrigen Preispunktes und einer hohen Produktkomplexität sollte laut York jedenfalls vermieden werden und ist langfristig nicht wirtschaftlich. Viele SaaS-Unternehmen scheitern hierbei und landen auf dem sogenannten „Startup Graveyard“. 
 
 Eine langfristige Erfolgsstrategie von SaaS-Unternehmen ist mit einem Self-Service Modell zu starten und schrittweise das Vertriebsmodell in Richtung Transactional und Enterprise auszubauen, um dadurch immer größere Kundensegmente für sich zu gewinnen.
 
-In den nachfolgenden Artikeln versuche ich die einzelnen Go-to-Market Strategien zu beschreiben und zu vergleichen.
+In den nachfolgenden Artikeln versuche ich die einzelnen Go-to-Market Strategien näher zu beschreiben und zu vergleichen.
 
 **Quellen:**
 
 * [The Proven Process for Developing a Go-to-Market Strategy](https://blog.hubspot.com/sales/gtm-strategy)
 * [Mastering Product Experience (in SaaS), Intrinsic Point](https://intrinsicpoint.com/mastering-product-experience-in-saas/home)
+* [SaaS Sales Models](http://chaotic-flow.com/media/saas-sales-models.pdf)
 * [Five ways to build a $100 million business](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
 * [2019 Expansion SaaS Benchmarks Report](https://openviewpartners.com/expansion-saas-benchmarks)
 
