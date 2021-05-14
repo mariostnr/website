@@ -26,15 +26,11 @@ Blickt man auf den Kundenlebenszyklus von SaaS-Produkten, angefangen von der Üb
 
 ![Kundenlebenszyklus eines SaaS-Produktes](/assets/uploads/saas-customer-lifecycle-framework.png "Kundenlebenszyklus eines SaaS-Produktes")
 
-Der \[Kundenlebenszyklus von SaaS-Produkten](https://intrinsicpoint.com/ch-4-taking-an-outside-in-perspective-of-the-customer-lifecycle-93f92b605fee) wird bei SaaS-Produkten maßgeblich vom Produkt selbst bestimmt, dem sogenannten Produktengagement. Der herkömmliche Marketing- und Sales-Funnel adressiert lediglich die Akquisestrategie (Aquisition), um potenzielle Kunden(innen) auf das eigene SaaS-Produkt aufmerksam zu machen und zu einem Sign-up für eine Trial- oder Freemium Nutzung zu motivieren. 
+Der [Kundenlebenszyklus von SaaS-Produkten](https://intrinsicpoint.com/ch-4-taking-an-outside-in-perspective-of-the-customer-lifecycle-93f92b605fee) wird bei SaaS-Produkten maßgeblich vom Produkt selbst bestimmt, dem sogenannten Produktengagement. Der herkömmliche Marketing- und Sales-Funnel adressiert lediglich die Akquisestrategie (Aquisition), um potenzielle Kunden(innen) auf das eigene SaaS-Produkt aufmerksam zu machen und zu einem Sign-up für eine Trial- oder Freemium Nutzung zu motivieren. 
 
 Das Produktengagement jedoch erstreckt sich dabei im weiteren Kundenlebenszyklus von der Produktaktivierung (Adoption/Activation), sprich dem Erleben des „Aha“ Moments und dem Wertversprechen für die Problemlösung, hin zu der wiederverkehrenden und langfristen Produktnutzung (Retention) und abschließend zur Weiterempfehlung (Expansion) des Produktes an Kollegen und Freunden. 
 
-Weiters ist gilt, es [je nach dem angestrebten Zielmarkt, der Zielgruppe(n) und der Produktkomplexität eine für das eigene SaaS-Produktes](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) passende GTM Strategie zu entwickeln, um so die Erfolgschancen des eigenen Produktes deutlich zu erhöhen:
-
-![Zielgruppen und Produktkomplexität](/assets/uploads/five-ways-to-build-a-100m-business.png "Zielgruppen und Produktkomplexität")
-
-Denn es macht einen großen Unterschied, ob man 1000 Großkunden mit einem jährlichen Vertragsvolumen von über 100 Tsd. US-Dollar oder 1 000 000 Kleinkunden mit einem jährlichen Vertragsvolumen von 100 US-Dollar für sich gewinnen möchte.
+Es gilt, [je nach dem angestrebten Zielmarkt, der Zielgruppe(n) und der Produktkomplexität eine für das eigene SaaS-Produktes](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) passende GTM Strategie zu entwickeln, um so die Erfolgschancen des eigenen Produktes deutlich zu erhöhen. Denn es macht einen großen Unterschied, ob man 1000 Großkunden mit einem jährlichen Vertragsvolumen von über 100 Tsd. US-Dollar oder 1 000 000 Kleinkunden mit einem jährlichen Vertragsvolumen von 100 US-Dollar für sich gewinnen möchte.
 
 Nachfolgend werden unterschiedliche GTM Strategien für SaaS-Produkte kurz beschrieben und die Anwendungsmöglichkeiten und Erfolgskriterien der jeweiligen Strategie vorgestellt.
 
