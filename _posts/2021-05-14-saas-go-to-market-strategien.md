@@ -56,7 +56,7 @@ In den nachfolgenden Artikeln versuche ich die einzelnen Go-to-Market Strategien
 
 * [The Proven Process for Developing a Go-to-Market Strategy](https://blog.hubspot.com/sales/gtm-strategy)
 * [Mastering Product Experience (in SaaS), Intrinsic Point](https://intrinsicpoint.com/mastering-product-experience-in-saas/home)
-* [SaaS Sales Models](http://chaotic-flow.com/media/saas-sales-models.pdf)
+* [SaaS Sales Models by Joel York](http://chaotic-flow.com/media/saas-sales-models.pdf)
 * [Five ways to build a $100 million business](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
 * [2019 Expansion SaaS Benchmarks Report](https://openviewpartners.com/expansion-saas-benchmarks)
 
