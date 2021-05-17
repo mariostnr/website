@@ -1,6 +1,6 @@
 ---
 title: Die wichtigsten SaaS-Metriken kurz erklärt
-date: 2021-05-13T09:48:35.258Z
+date: 2021-05-17T10:28:34.761Z
 tags: SaaS Metriken
 description: Die wichtigsten SaaS-Metriken für die Bereiche Akquise von
   Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für
@@ -83,7 +83,7 @@ Die Net Dollar Retention Rate (NDR) ist die wohl wichtigste Profitabilitätsmetr
 
 `NDR = (MRR am Monatsbeginn + Expansion MRR - Churn - Downgrades) / MRR am Monatsbeginn in %`
 
-Für das langfristige Wachstum und Erfolg eines SaaS-Unternehmens ist ein NDR von über 100% essenziell, weil dadurch das SaaS-Unternehmen durch seine Bestandskunden wächst und nicht ausschließlich durch die Akquise von Neukunden.
+Für das langfristige Wachstum und den Erfolg eines SaaS-Unternehmens ist ein NDR von über 100% essenziell, da dies ein Indikator für ein gesundes Wachstum mittels Bestandskunden ist und das Unternehmen nicht ausschließlich durch die Akquise von Neukunden wächst.
 
 Im nächsten Artikel schreibe ich über Benchmarks, welche einen Performancevergleich von SaaS-Unternehmen und -Produkten in den Bereichen Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für die Bewertung der Profitabilität von Unternehmen ermöglichen.
 
