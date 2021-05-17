@@ -3,11 +3,11 @@ title: Die wichtigsten SaaS-Metriken kurz erklärt
 date: 2021-05-17T10:28:34.761Z
 tags: SaaS Metriken
 description: Die wichtigsten SaaS-Metriken für die Bereiche Akquise von
-  Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für
+  Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für die
   Bewertung der Profitabilität von SaaS-Unternehmen werden nachfolgend kurz
   erklärt.
 ---
-Die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für Bewertung der Profitabilität von SaaS-Unternehmen werden nachfolgend kurz erklärt.
+Die wichtigsten SaaS-Metriken für die Bereiche Akquise von Neukunden, Wachstum, Expansion und Retention von Bestandskunden und für die Bewertung der Profitabilität von SaaS-Unternehmen werden nachfolgend kurz erklärt.
 
 ## Akquise
 
