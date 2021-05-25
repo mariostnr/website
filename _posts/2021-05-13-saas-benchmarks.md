@@ -77,6 +77,8 @@ Ein guter Indikator ist hierbei [das Verhältnis zwischen dem CLV und dem CAC, w
 
 Aus einer [KeyBanc Capital Markets Umfrage](https://www.key.com/kco/images/2019_KBCM_saas_survey_102319.pdf) geht hervor, dass die erfolgreichsten SaaS-Unternehmen dabei im Durchschnitt zwischen 5 und 15 Monate, um die CAC zu kompensieren. Die durchschnittlichen operativen Ausgaben für Sales und Marketing pendeln dabei zwischen 30% und 42% in Abhängigkeit des erwirtschafteten ARR. Im Durchschnitt beträgt die Bruttomarge (Total Gross Margin) der erfolgreichsten SaaS-Unternehmen rund 63% bis 68% und der erwirtschaftete operative Gewinn (EBIT Margin) zwischen 30% und 20% je nach ARR.
 
+Im nächsten Artikel versuche ich kurz den Begriff Go-to-Market Strategie zu erklären, sowie einen Überblick über die gängigsten Go-to-Market Strategien für SaaS-Produkten zu schaffen.
+
 **Quellen:**
 
 * [The SaaS Adventure. TechCrunch](https://techcrunch.com/2015/02/01/the-saas-travel-adventure/)
