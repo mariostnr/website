@@ -17,44 +17,61 @@ Die salesorientierte Go-to-Market Strategie eignet sich vor allem für einen hoh
 
 Erfolgsfaktoren einer salesorientierten Go-to-Market Strategie sind:
 
-* Kaufentscheider: CIO, CISO, CTO, CFO
-* Vertriebszyklus: Monate
-* Vertragsvolumen: ab 100 Tsd. US-Dollar
-* Kosten für die Kundenakquise (CAC): Hoch
-* Produktkomplexität: Hoch
+* Kaufentscheider
+  : CIO, CISO, CTO, CFO
+* Vertriebszyklus
+  : Monate
+* Vertragsvolumen
+  : ab 100 Tsd. US-Dollar
+* Kosten für die Kundenakquise (CAC)
+  : Hoch
+* Produktkomplexität
+  : Hoch
 
 Die salesorientierte Go-to-Market Strategie eignet sich aus diesem Grund vor allem für Kundensegmente mit einem hohen Vertragsvolumina (LTV) und entsprechend höheren Kosten für die Kundenakquise (CAC), aufgrund des höheren Erklärungsbedarfs und der Betreuung während des Kaufprozesses. Die Vertriebszyklen sind dementsprechend oft mehrere Monate lang und zielen auf Kaufentscheider im Top-Management eines Unternehmens ab.
 
 ## Marketingorientierte Go-to-Market Strategie
 
-Das Transactional Vertriebsmodell eignet sich eher für einen hohen Preispunkt und eine niedrige Produktkomplexität. Denn sobald der Preis für ein Produkt steigt, ändert sich auch die Erwartungshaltung und es wird versucht eine langfriste Geschäftsbeziehung aufzubauen. Es wird eine professionelle und effiziente Unterstützung bei der Produktnutzung, garantierte Supportzeiten, ein persönlichen Kontakt und eine menschliche Ansprechperson erwartet. Das Vertriebsteam wird hierbei bestmöglich vom Marketing durch die Vorbereitung von sogenannten Sales Qualified Leads (SQL) unterstützt. Es wird versucht, durch Automatisierung von Vertriebsprozessen die Produktivität je Vertriebsmitarbeiter weiter zu steigern.
+Eine marketingorientierte Go-to-Market Strategie definiert sich dadurch, dass das Marketingteam die Generierung von Aufmerksamkeit und Nachfrage für ein Produkt vorantreiben und dafür verantwortlich sind die gewünschten Zielgruppen zu erreichen, den Vertriebsprozess zu initiieren und qualifizierte Leads an das Vertriebsteam zu übergeben.
 
+Die marketingorientierte Go-to-Market Strategie eignet sich aus diesem Grund vor allem für Produkte mit einem höheren Preispunkt und einer niedrigen Produktkomplexität. Die Aufgabe des Marketingteams ist es hierbei, einerseits die Leadqualifizierung, durch die Konvertierung von Interessenten(innen) hin zu von Marketing Qualified Leads (MQL) und im weiteren Akquiseverlauf der Übergabe der Sales Qualified Leads (SQL) an das Vertriebsteam, wie die nachfolgende Abbildung zeigt:
+
+![Leadqualifizierung von MQL zu SQL](/assets/uploads/saas-leadqualifizierung-von-mql-zu-sql.png "Leadqualifizierung von MQL zu SQL")
+
+Durch Automatisierung von Prozessen und der Kombination von Inbound und Outbound Strategien wird versucht, Interesse bei potenziellen Kunden(innen) zu wecken und schrittweise auszubauen, sodass schlussendlich das Vertriebsteam den potenziellen Kunden in einer Produktdemo vom eigenen Produkt überzeugen kann und so für das eigene Unternehmen gewinnen kann.
+
+Erfolgsfaktoren einer marketingorientierten Go-to-Market Strategie sind:
+
+* Kaufentscheider
+  : VP of Engineering, Product, Marketing, HR
+* Vertriebszyklus
+  : Tage bis Wochen
+* Vertragsvolumen
+  : ~ 5 bis 100 Tsd. US-Dollar
+* Kosten für die Kundenakquise (CAC)
+  : Mittel
+* Produktkomplexität
+  : Niedrig
+
+Marketingorientierte und salesorientierte Go-to-Marketingstrategien werden meist parallel angewendet, um durch die automatisierte Leadqualifizierung die Effizienz des Vertriebsteams deutlich zu steigern und die CAC zu senken.
 
 ## Produktorientierte Go-to-Market Strategie
 
 Das Self-Service Vertriebsmodell eignet sich vor allem für einen niedrigen Preispunkt und eine niedrige Produktkomplexität. Es verzichtet dabei weitgehend auf ein Vertriebsteam und ermöglicht den Kunden(innen) den Kauf eigenständig durchzuführen und das Produkt direkt und mittels einem einfachen und benutzerfreundlichen Onboarding zu nutzen. Die Aufgabe des Marketing ist hierbei größtmögliche Aufmerksamkeit für das Produkt zu generieren und durch die Veröffentlichung von Educational Content, die bestmögliche Produktnutzung zu ermöglichen.
 
-
 ## Vergleich der Go-to-Market Strategien
-
 
 Im nächsten Artikel versuche ich näher auf potentielle Faktoren für das Wachstum und den Erfolg von SaaS-Produkten einzugehen.
 
 **Quellen:**
 
-
 * [SaaS Sales Models by Joel York](http://chaotic-flow.com/media/saas-sales-models.pdf)
 * [Product-Led Growth: How to Build a Product That Sells Itself](https://productled.com/book/)
-
-
-
-* [The Proven Process for Developing a Go-to-Market Strategy](https://blog.hubspot.com/sales/gtm-strategy)
+* [State of the Open Cloud 2019](https://de.slideshare.net/Battery_Ventures/state-of-the-opencloud-2019)
 * [Mastering Product Experience (in SaaS), Intrinsic Point](https://intrinsicpoint.com/mastering-product-experience-in-saas/home)
-
+* [The Proven Process for Developing a Go-to-Market Strategy](https://blog.hubspot.com/sales/gtm-strategy)
 * [Five ways to build a $100 million business](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
 * [2019 Expansion SaaS Benchmarks Report](https://openviewpartners.com/expansion-saas-benchmarks)
-
-
 * [State of Product-Led Growth 2019](https://www.productled.org/data-and-trends/state-of-product-led-growth)
 * [The Implication of Secular Increases in SaaS CAC](https://tomtunguz.com/cac-increase/)
 * [The Rising Stakes in SaaS](https://tomtunguz.com/rising-table-stakes-in-saas/)
