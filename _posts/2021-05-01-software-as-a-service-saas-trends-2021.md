@@ -1,5 +1,5 @@
 ---
-title: Software-as-a-Service (SaaS) Trends 2021
+title: Die 5 wichtigsten SaaS-Trends 2021
 date: 2021-05-01T07:32:31.033Z
 tags: SaaS Trends
 description: Durch den zunehmenden technologischen Fortschritt war es noch nie
