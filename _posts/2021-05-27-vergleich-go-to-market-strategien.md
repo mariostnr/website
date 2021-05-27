@@ -57,7 +57,30 @@ Marketingorientierte und salesorientierte Go-to-Marketingstrategien werden meist
 
 ## Produktorientierte Go-to-Market Strategie
 
-Das Self-Service Vertriebsmodell eignet sich vor allem für einen niedrigen Preispunkt und eine niedrige Produktkomplexität. Es verzichtet dabei weitgehend auf ein Vertriebsteam und ermöglicht den Kunden(innen) den Kauf eigenständig durchzuführen und das Produkt direkt und mittels einem einfachen und benutzerfreundlichen Onboarding zu nutzen. Die Aufgabe des Marketing ist hierbei größtmögliche Aufmerksamkeit für das Produkt zu generieren und durch die Veröffentlichung von Educational Content, die bestmögliche Produktnutzung zu ermöglichen.
+Eine produktorientierte Go-to-Market Strategie definiert sich dadurch, dass das Produkt selbst der wesentliche Treiber für die Neukundenakquise, die Produktaktivierung, der Konvertierung von einer kostenlosen zu einer kostenpflichtigen Subscription und dem weiteren Wachstum eines SaaS-Produktes ist.
+
+Die produktorientierte Go-to-Market Strategie eignet sich aus diesem Grund vor allem für Produkte mit einem niedrigen Preispunkt und einer niedrigen Produktkomplexität zu vertreiben. Das Self-Service Vertriebsmodell ermöglicht den Kunden(innen) den Kauf eigenständig durchzuführen und das Produkt direkt und mit Hilfe eines einfachen und benutzerfreundlichen Onboarding zu nutzen.
+
+Bei der produktorientierten GTM Strategie wird versucht, Interessenten schnellstmöglich vom Produktnutzen zu überzeugen und als Product Qualified Leads (PQL) zu qualifizieren, um weitere Cross- und Upselling Vertriebsmaßnahmen einzuleiten:
+
+![Leadqualifizierung von Visitor zu PQL](/assets/uploads/saas-leadqualifizierung-von-visitor-zu-pql.png "Leadqualifizierung von Visitor zu PQL")
+
+Die Aufgabe des Marketing ist hierbei größtmögliche Aufmerksamkeit für das Produkt zu generieren und eine einfache Produktnutzung zu ermöglichen. Die teamübergreifende Fokussierung auf das Produkterlebnis und eine effiziente Zusammenarbeit zwischen den Marketing, Product-, Sales- und Customer Success Teams ermöglicht die Kundenbeziehung stets in den Mittelpunkt der gemeinsamen Aktivitäten zu stellen.
+
+Erfolgsfaktoren einer produktorientierten Go-to-Market Strategie sind:
+
+* Kaufentscheider
+  : Product Manager, Developer, Marketer
+* Vertriebszyklus
+  : Stunden
+* Vertragsvolumen
+  : bis 5 Tsd. US-Dollar
+* Kosten für die Kundenakquise (CAC)
+  : Niedrig
+* Produktkomplexität
+  : Niedrig
+
+Im Gegensatz zu der salesorientierten- und marketingorientierten GTM Strategie, wird bei dieser Strategie kein dediziertes Vertriebsteam benötigt, um die gewünschten Zielgruppen zu erreichen und Kunden(innen) zu gewinnen.
 
 ## Vergleich der Go-to-Market Strategien
 
@@ -70,12 +93,6 @@ Im nächsten Artikel versuche ich näher auf potentielle Faktoren für das Wachs
 * [State of the Open Cloud 2019](https://de.slideshare.net/Battery_Ventures/state-of-the-opencloud-2019)
 * [Mastering Product Experience (in SaaS), Intrinsic Point](https://intrinsicpoint.com/mastering-product-experience-in-saas/home)
 * [The Proven Process for Developing a Go-to-Market Strategy](https://blog.hubspot.com/sales/gtm-strategy)
-* [Five ways to build a $100 million business](https://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
-* [2019 Expansion SaaS Benchmarks Report](https://openviewpartners.com/expansion-saas-benchmarks)
-* [State of Product-Led Growth 2019](https://www.productled.org/data-and-trends/state-of-product-led-growth)
-* [The Implication of Secular Increases in SaaS CAC](https://tomtunguz.com/cac-increase/)
-* [The Rising Stakes in SaaS](https://tomtunguz.com/rising-table-stakes-in-saas/)
-* [What is Product-Led Growth?](https://openviewpartners.com/blog/what-is-product-led-growth/)
-* [Why Trello Failed to Build a $1 Billion+ Business](https://www.linkedin.com/pulse/why-trello-failed-build-1-billion-business-hiten-shah/)
+* [What is Product Led Growth? How to Build a Software Company in the End User Era](https://openviewpartners.com/blog/what-is-product-led-growth/)
 
 💡 PS: um in Zukunft keinen Artikel zu verpassen, kannst du mir gerne auf [Twitter](https://twitter.com/mariostnr) oder [LinkedIn](https://www.linkedin.com/in/mario-steiner) folgen oder dich zu meinem persönlichen [Newsletter](http://eepurl.com/heuGRP) anmelden
