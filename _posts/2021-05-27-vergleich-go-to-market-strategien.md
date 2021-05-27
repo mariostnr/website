@@ -17,16 +17,13 @@ Die salesorientierte Go-to-Market Strategie eignet sich vor allem für einen hoh
 
 Erfolgsfaktoren einer salesorientierten Go-to-Market Strategie sind:
 
-* Kaufentscheider
-  : CIO, CISO, CTO, CFO
-* Vertriebszyklus
-  : Monate
-* Vertragsvolumen
-  : ab 100 Tsd. US-Dollar
-* Kosten für die Kundenakquise (CAC)
-  : Hoch
-* Produktkomplexität
-  : Hoch
+|Kriterien|Erfolgsfaktor|
+|--- | --- |
+|Kaufentscheider|CIO, CISO, CTO, CFO|
+|Vertriebszyklus|Monate|
+|Vertragsvolumen|ab 100 Tsd, US-Dollar|
+|Kosten für die Kundenakquise (CAC)|Hoch|
+|Produktkomplexität|Hoch|
 
 Die salesorientierte Go-to-Market Strategie eignet sich aus diesem Grund vor allem für Kundensegmente mit einem hohen Vertragsvolumina (LTV) und entsprechend höheren Kosten für die Kundenakquise (CAC), aufgrund des höheren Erklärungsbedarfs und der Betreuung während des Kaufprozesses. Die Vertriebszyklen sind dementsprechend oft mehrere Monate lang und zielen auf Kaufentscheider im Top-Management eines Unternehmens ab.
 
